@@ -1,11 +1,11 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: skc's notes
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: none
   locale: en-US
   baseUrl: quartz.jzhao.xyz
   ignorePatterns:
